@@ -3,8 +3,8 @@
 
 ## About
 Welcome to the Object Detection GUI application, developed by MD Shahariar Alom.
-This application allows you to perform object detection using a pre-trained TensorFlow
-or custom-trained model in a user-friendly graphical interface.
+This application allows you to perform object detection using a pre-trained 
+or custom-trained TensorFlow model in a user-friendly graphical interface.
 
 ## Contact MD Shahariar Alom for any queries or assistance and Services:
 
