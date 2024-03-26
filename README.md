@@ -1,4 +1,4 @@
-# ssdmobilenet-V2-detection-using-python-GUI-webcam-image-video-
+# ssdmobilenet-V2-detection-using-python-GUI-webcam(live)/image/video
 ## allows you to detect objects using a user-friendly graphical interface
 
 ## About
@@ -11,6 +11,7 @@ or custom-trained model in a user-friendly graphical interface.
 WhatsApp: +8801770293055
 Email: contact@annotationworkforce.com
 Company: AnnotationWorkforce
+Website: annotationworkforce.com
 Services: Data Annotation and ML/DL
 
 # Features
