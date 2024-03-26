@@ -6,13 +6,13 @@ Welcome to the Object Detection GUI application, developed by MD Shahariar Alom.
 This application allows you to perform object detection using a pre-trained TensorFlow
 or custom-trained model in a user-friendly graphical interface.
 
-## Contact MD Shahariar Alom for any queries or assistance and Service:
+## Contact MD Shahariar Alom for any queries or assistance and Services:
 
 WhatsApp: +8801770293055
 Email: contact@annotationworkforce.com
 Company: AnnotationWorkforce
 Website: annotationworkforce.com
-Services: Data Annotation and ML/DL
+Services: Data Annotation and Mchine Learning/Deep Learning
 
 # Features
 Choose the TensorFlow model for object detection.
