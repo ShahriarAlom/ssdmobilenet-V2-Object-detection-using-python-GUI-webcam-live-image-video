@@ -1,4 +1,4 @@
-# ssdmobilenet-V2-detection-using-python-GUI-webcam(live)/image/video
+# ssdmobilenet-V2-Object-detection-using-python-GUI-webcam(live)/image/video
 ## allows you to detect objects using a user-friendly graphical interface
 
 ## About
